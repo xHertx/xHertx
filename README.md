@@ -40,7 +40,7 @@ roles:
 location: India 🇮🇳
 focus: [Commercial Video Editing, Full-Stack Web Apps, Motion Graphics, Automation]
 reach_me: xhertxd@gmail.com
-portfolio: https://hertx.vercel.app
+portfolio: https://justhemang.xyz/
 ```
 
 - 🎬 **Video Editing & Motion Graphics**: Commercial cuts, DaVinci Resolve color grading, Premiere Pro & After Effects visual FX.
