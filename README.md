@@ -8,9 +8,9 @@
 
 <a href="https://discord.gg/justhemang"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/xhertxd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/hemang-luthra-328a65303"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/@justhemang"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href="https://github.com/xhertx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hemang-luthra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@xHertx"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://github.com/xHertx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:xhertxd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -40,7 +40,7 @@ roles:
 location: India 🇮🇳
 focus: [Commercial Video Editing, Full-Stack Web Apps, Motion Graphics, Automation]
 reach_me: xhertxd@gmail.com
-portfolio: https://justhemang.xyz/
+portfolio: https://hertx.vercel.app
 ```
 
 - 🎬 **Video Editing & Motion Graphics**: Commercial cuts, DaVinci Resolve color grading, Premiere Pro & After Effects visual FX.
